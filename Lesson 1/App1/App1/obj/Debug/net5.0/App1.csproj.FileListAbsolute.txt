@@ -1,0 +1,15 @@
+/Users/erasmo/Desktop/Projects/App1/App1/bin/Debug/net5.0/App1.deps.json
+/Users/erasmo/Desktop/Projects/App1/App1/bin/Debug/net5.0/App1.runtimeconfig.json
+/Users/erasmo/Desktop/Projects/App1/App1/bin/Debug/net5.0/App1.runtimeconfig.dev.json
+/Users/erasmo/Desktop/Projects/App1/App1/bin/Debug/net5.0/App1.dll
+/Users/erasmo/Desktop/Projects/App1/App1/bin/Debug/net5.0/ref/App1.dll
+/Users/erasmo/Desktop/Projects/App1/App1/bin/Debug/net5.0/App1.pdb
+/Users/erasmo/Desktop/Projects/App1/App1/obj/Debug/net5.0/App1.csproj.AssemblyReference.cache
+/Users/erasmo/Desktop/Projects/App1/App1/obj/Debug/net5.0/App1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erasmo/Desktop/Projects/App1/App1/obj/Debug/net5.0/App1.AssemblyInfoInputs.cache
+/Users/erasmo/Desktop/Projects/App1/App1/obj/Debug/net5.0/App1.AssemblyInfo.cs
+/Users/erasmo/Desktop/Projects/App1/App1/obj/Debug/net5.0/App1.csproj.CoreCompileInputs.cache
+/Users/erasmo/Desktop/Projects/App1/App1/obj/Debug/net5.0/App1.dll
+/Users/erasmo/Desktop/Projects/App1/App1/obj/Debug/net5.0/ref/App1.dll
+/Users/erasmo/Desktop/Projects/App1/App1/obj/Debug/net5.0/App1.pdb
+/Users/erasmo/Desktop/Projects/App1/App1/obj/Debug/net5.0/App1.genruntimeconfig.cache
