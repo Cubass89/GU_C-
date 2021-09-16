@@ -1,0 +1,13 @@
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/bin/Debug/netcoreapp3.1/Lesson_2.deps.json
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/bin/Debug/netcoreapp3.1/Lesson_2.runtimeconfig.json
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/bin/Debug/netcoreapp3.1/Lesson_2.runtimeconfig.dev.json
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/bin/Debug/netcoreapp3.1/Lesson_2.dll
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/bin/Debug/netcoreapp3.1/Lesson_2.pdb
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/obj/Debug/netcoreapp3.1/Lesson_2.csproj.AssemblyReference.cache
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/obj/Debug/netcoreapp3.1/Lesson_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/obj/Debug/netcoreapp3.1/Lesson_2.AssemblyInfoInputs.cache
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/obj/Debug/netcoreapp3.1/Lesson_2.AssemblyInfo.cs
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/obj/Debug/netcoreapp3.1/Lesson_2.csproj.CoreCompileInputs.cache
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/obj/Debug/netcoreapp3.1/Lesson_2.dll
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/obj/Debug/netcoreapp3.1/Lesson_2.pdb
+/Users/erasmo/Desktop/Projects/Lesson_2/Lesson_2/Lesson_2/obj/Debug/netcoreapp3.1/Lesson_2.genruntimeconfig.cache

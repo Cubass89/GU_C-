@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/erasmo/.dotnet/store/|arch|/|tfm|",
+      "/Users/erasmo/.nuget/packages"
+    ]
+  }
+}
